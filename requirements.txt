@@ -2,6 +2,6 @@ infi.clickhouse_orm
 pyshark==0.4.1
 OTXv2==1.2
 pyyaml==3.13
-psutil==5.4.6
+psutil==7.0.0
 vulners==1.1.1
 netaddr==0.7.19
