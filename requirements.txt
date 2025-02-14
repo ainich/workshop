@@ -3,5 +3,5 @@ pyshark==0.4.1
 OTXv2==1.2
 pyyaml==3.13
 psutil==5.4.6
-vulners==1.1.1
+vulners==2.3.4
 netaddr==0.7.19
